@@ -1,4 +1,4 @@
-# Excel_Project-Data_Analytics
+# Data_Science-Salary_Analysis
 Project demonstrating my Excel skills.
 
 <img width="944" alt="Dashboard Image" src="https://github.com/user-attachments/assets/9b292eae-0d72-4a76-9dbb-4b9f62fa3d7c" />
